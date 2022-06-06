@@ -3,6 +3,10 @@
     margin-top: 150px;
 }
 
+img{
+    padding-bottom: 20px;
+}
+
 #searchBar{
     width: 584px;
     height: 44px;
